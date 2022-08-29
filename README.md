@@ -29,7 +29,7 @@
 <br>
 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Nivash-C-CD/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NivashC-CD/&title=Profile%20Views)
 
 ### About 🙋🏻‍♂️
 ```python
@@ -61,4 +61,4 @@ religion = "🇮🇳"
 
 ### Stats ⚡️
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Nivash-C-CD&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=NivashC-CD&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
